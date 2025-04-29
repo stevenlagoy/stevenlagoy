@@ -1,41 +1,36 @@
 # Hi there, I'm Steven 👋
 
-## Steven LaGoy
-Software Engineer
+## Software Engineer | Simulation Specialist | CS Student
 
 ---
-## Education:
 
-Purdue University Fort Wayne,	Fort Wayne, IN
+## 🎓 Education
 
-B.S. in Computer Science, 		May 2026 (expected)		GPA: 3.70 / 4.0
-
-Minors: Mathematics, History
-
-Honors Student
-
-
-Purdue University Fort Wayne,	Fort Wayne, IN
-
-M.S in Computer Science, 		Beginning Fall 2025
+**Purdue University Fort Wayne**, Fort Wayne, IN  
+- **M.S. in Computer Science** — Beginning Fall 2025  
+- **B.S. in Computer Science** — May 2026 (expected)  
+  - GPA: 3.70 / 4.0
+  - Minors: Mathematics, History
+  - Honors Student
 
 ---
 
 ## 💻 Tech Stack
-Primary Languages & Technologies:
-<img src= "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 
-Also Familiar With:
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+### Primary Languages & Technologies:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Also Familiar With:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -48,30 +43,20 @@ Also Familiar With:
 
 ---
 
-## 📫 Connect With Me
-Github Sites: https://stevenlagoy.github.io/
+## 📊 GitHub Stats
 
-LinkedIn: https://www.linkedin.com/in/steven-lagoy/
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenlagoy&show_icons=true&theme=dark" />
 
-📧 Personal Email: stevenlagoy@gmail.com
-
-🐘 PFW Email: lagosm01@pfw.edu
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlagoy&layout=compact&theme=dark" />
 
 ---
 
-⭐️ From stevenlagoy
+## 📫 Connect With Me
+- 🌐 **GitHub Sites**: [stevenlagoy.github.io](https://stevenlagoy.github.io/)
+- 👔 **LinkedIn**: [linkedin.com/in/steven-lagoy](https://www.linkedin.com/in/steven-lagoy/)
+- 📧 **Personal Email**: stevenlagoy@gmail.com
+- 🐘 **PFW Email**: lagosm01@pfw.edu
 
-<!--
-**stevenlagoy/stevenlagoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [stevenlagoy](https://github.com/stevenlagoy)
