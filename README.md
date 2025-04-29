@@ -1,6 +1,6 @@
 # Hi there, I'm Steven 👋
 
-## Software Engineer | Simulation Specialist | CS Student
+## Software Engineer | CS Student
 
 ---
 
