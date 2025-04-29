@@ -12,13 +12,13 @@ Minors: Mathematics, History
 
 Honors Student
 
+
 Purdue University Fort Wayne,	Fort Wayne, IN
 
 M.S in Computer Science, 		Beginning Fall 2025
 
 # 💻 Tech Stack
 Primary Languages & Technologies:
-
 <img src= "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -28,7 +28,6 @@ Primary Languages & Technologies:
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 
 Also Familiar With:
-
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
@@ -49,6 +48,8 @@ LinkedIn: https://www.linkedin.com/in/steven-lagoy/
 📧 Personal Email: stevenlagoy@gmail.com
 
 🐘 PFW Email: lagosm01@pfw.edu
+
+---
 
 ⭐️ From stevenlagoy
 
