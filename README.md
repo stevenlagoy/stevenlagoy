@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenlagoy&show_icons=true&theme=dark" />
+[![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevenlagoy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlagoy&layout=compact&theme=dark" />
 
