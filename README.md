@@ -30,8 +30,9 @@ Also Familiar With:
 
 # 🔍 Focus Areas
 - Simulations & Modeling
-- Software Architecture
-- Performance Optimization
+- Software Design
+- Backend Systems
+- Computer Graphics
 - Data Visualization
 
 # 📫 Connect With Me
