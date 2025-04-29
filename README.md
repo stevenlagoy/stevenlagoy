@@ -1,8 +1,10 @@
-## Hi there, I'm Steven 👋
+# Hi there, I'm Steven 👋
 
-# Steven LaGoy
-# Software Engineer
-https://www.linkedin.com/in/steven-lagoy/
+## Steven LaGoy
+Software Engineer
+
+---
+## Education:
 
 Purdue University Fort Wayne,	Fort Wayne, IN
 
@@ -17,7 +19,9 @@ Purdue University Fort Wayne,	Fort Wayne, IN
 
 M.S in Computer Science, 		Beginning Fall 2025
 
-# 💻 Tech Stack
+---
+
+## 💻 Tech Stack
 Primary Languages & Technologies:
 <img src= "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
@@ -33,14 +37,18 @@ Also Familiar With:
 <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-# 🔍 Focus Areas
+---
+
+## 🔍 Focus Areas
 - Simulations & Modeling
 - Software Design
 - Backend Systems
 - Computer Graphics
 - Data Visualization
 
-# 📫 Connect With Me
+---
+
+## 📫 Connect With Me
 Github Sites: https://stevenlagoy.github.io/
 
 LinkedIn: https://www.linkedin.com/in/steven-lagoy/
