@@ -1,6 +1,11 @@
-# Hi there, I'm Steven 👋
+# Hi there, I'm Steven ✨
 
 ## Software Engineer | CS Student
+
+---
+
+## 💡 About Me
+Hi! I am a Computer Science student with interests ranging from Soccer to Music to History. I've been interested in technology forever and have been coding for nearly 8 years now. I've worked with robotics, simulations, web applications, and more. I love applying my Computer Science knowledge to my other interests and hobbies! Feel free to reach out to me through the links at the bottom of this bio. 😀
 
 ---
 
