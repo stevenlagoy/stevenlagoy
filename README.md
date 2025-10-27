@@ -1,11 +1,11 @@
-# Hi there, I'm Steven ✨
+# Hi, I'm Steven ✨
 
 ## Software Engineer | CS Student
 
 ---
 
 ## 💡 About Me
-Hi! I am a Computer Science student with interests ranging from Soccer to Music to History. I've been interested in technology forever and have been coding for nearly 8 years now. I've worked with robotics, simulations, web applications, and more. I love applying my Computer Science knowledge to my other interests and hobbies! Feel free to reach out to me through the links at the bottom of this bio. 😀
+Hi! I am a Computer Science student with interests ranging from Soccer to Music to History. I've been interested in technology forever and have been coding for nearly 9 years now. I've worked with robotics, simulations, web applications, and more. I love applying my Computer Science knowledge to my other interests and hobbies! Feel free to reach out to me through the links at the bottom of this bio. 😀
 
 ---
 
@@ -25,26 +25,27 @@ Hi! I am a Computer Science student with interests ranging from Soccer to Music 
 ### Primary Languages & Technologies:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Also Familiar With:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-23272F?style=flat-square&logo=react)
 
 ---
 
 ## 🔍 Focus Areas
+- Clean Software Design
 - Simulations & Modeling
-- Software Design
-- Backend Systems
-- Computer Graphics
 - Data Visualization
+- Computer Graphics
+- Web Development
 
 ---
 
@@ -59,8 +60,8 @@ Hi! I am a Computer Science student with interests ranging from Soccer to Music 
 ## 📫 Connect With Me
 - 🌐 **GitHub Sites**: [stevenlagoy.github.io](https://stevenlagoy.github.io/)
 - 👔 **LinkedIn**: [linkedin.com/in/steven-lagoy](https://www.linkedin.com/in/steven-lagoy/)
-- 📧 **Personal Email**: stevenlagoy@gmail.com
-- 🐘 **PFW Email**: lagosm01@pfw.edu
+- 📧 **Personal Email**: [stevenlagoy@gmail.com](mailto:stevenlagoy@gmail.com)
+- 🐘 **PFW Email**: [lagosm01@pfw.edu](mailto:lagosm01@pfw.edu) [lagosm01@purdue.edu](mailto:lagosm01@purdue.edu)
 
 ---
 
