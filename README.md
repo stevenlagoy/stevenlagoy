@@ -1,13 +1,9 @@
 # Hi, I'm Steven ✨
-
 ## Software Engineer | CS Student
-
 ---
 
 ## 💡 About Me
 Hi! I am a Computer Science student with interests ranging from Soccer to Music to History. I've been interested in technology forever and have been coding for nearly 9 years now. I've worked with robotics, simulations, web applications, and more. I love applying my Computer Science knowledge to my other interests and hobbies! Feel free to reach out to me through the links at the bottom of this bio. 😀
-
----
 
 ## 🎓 Education
 
@@ -17,8 +13,6 @@ Hi! I am a Computer Science student with interests ranging from Soccer to Music 
   - GPA: 3.70 / 4.0
   - Minors: Mathematics, History
   - Honors Student
-
----
 
 ## 💻 Tech Stack
 
@@ -38,8 +32,6 @@ Hi! I am a Computer Science student with interests ranging from Soccer to Music 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-23272F?style=flat-square&logo=react)
 
----
-
 ## 🔍 Focus Areas
 - Clean Software Design
 - Simulations & Modeling
@@ -47,15 +39,11 @@ Hi! I am a Computer Science student with interests ranging from Soccer to Music 
 - Computer Graphics
 - Web Development
 
----
-
 ## 📊 GitHub Stats
 
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevenlagoy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlagoy&layout=compact&theme=dark" />
-
----
 
 ## 📫 Connect With Me
 - 🌐 **GitHub Sites**: [stevenlagoy.github.io](https://stevenlagoy.github.io/)
