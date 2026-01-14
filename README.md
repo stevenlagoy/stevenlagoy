@@ -14,7 +14,7 @@
 
 
 ## Projects
-### [Signing Bee](github.com/stevenlagoy/Signing-Bee) | React, Node.js, PostgreSQL<br>
+### [Signing Bee](https://github.com/stevenlagoy/Signing-Bee) | React, Node.js, PostgreSQL<br>
 * Built an ASL learning platform incorporating real-time gesture recognition.
 * Designed PostgreSQL database schema and RESTful backend APIs using Express.
 * Implemented CI/CD pipelines with unit and end-to-end testing.
@@ -24,12 +24,12 @@
 * Designed gameplay systems and puzzle mechanics in C++ using Unreal Engine.
 * Coordinated team milestones, code integration, and testing with an Agile approach.
 
-### [Jsonic](github.com/stevenlagoy/Jsonic) | Java, Maven, JSON
+### [Jsonic](https://github.com/stevenlagoy/Jsonic) | Java, Maven, JSON
 * Developed a strongly-typed JSON parsing and object-mapping library in Java.
 * Implemented custom parsing and validation without relying on external libraries.
 * Built automated test suites and CI workflows using Maven.
 
-### [Demographic Electoral Model](github.com/stevenlagoy/US-Demographic-Electoral-Model) | Python, C++, HTML + JavaScript
+### [Demographic Electoral Model](https://github.com/stevenlagoy/US-Demographic-Electoral-Model) | Python, C++, HTML + JavaScript
 * Built a simulation of electoral outcomes based on real-world demographic archetypes.
 * Used data scraping and statistical modeling pipelines to analyze demographic trends.
 * Developed a web-based visualization tool to explore the data.
@@ -64,7 +64,7 @@ My first exploration in programming was in middle school. Starting with block an
 
 
 ### Now
-I am currently an undergrad student at [Purdue University Fort Wayne](www.pfw.edu). I will graduate in Spring of 2026 with a [bachelor's in Computer Science](https://www.pfw.edu/academics-research/majors-minors/computer-science-bs). In Fall of 2025, I also started earning a postgraduate degree through dual-enrollment. I hope to earn my master's degree in Computer Science in Spring of 2027. I am an honors student with a cumulative GPA of 3.75.
+I am currently an undergrad student at [Purdue University Fort Wayne](https://www.pfw.edu/). I will graduate in Spring of 2026 with a [bachelor's in Computer Science](https://www.pfw.edu/academics-research/majors-minors/computer-science-bs). In Fall of 2025, I also started earning a postgraduate degree through dual-enrollment. I hope to earn my master's degree in Computer Science in Spring of 2027. I am an honors student with a cumulative GPA of 3.75.
 
 <kbd><img src="https://stevenlagoy.github.io/assets/honors-DCFKRrPc.png" alt="Photo of Steven holding an honors recognition pin standing next to some balloons" width="200" height="200" title="Being recognized by PFW's Honors Program"></kbd>
 <kbd><img src="https://stevenlagoy.github.io/assets/bridge-D1fldxmm.png" alt="Photo of Steven wearing a Purdue University shirt standing in front of a bridge" width="200" height="200" title="The first day of the Fall 2025 semester"><kbd>
@@ -72,6 +72,7 @@ I am currently an undergrad student at [Purdue University Fort Wayne](www.pfw.ed
 
 ## Focus Areas
 - Clean Software Design
+- Data Science
 - Simulations & Modeling
 - Data Visualization
 - Computer Graphics
