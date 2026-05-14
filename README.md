@@ -19,7 +19,7 @@
 * Designed PostgreSQL database schema and RESTful backend APIs using Express.
 * Implemented CI/CD pipelines with unit and end-to-end testing.
 
-### Island Song | Unreal Engine 5, C++
+### [Island Song](https://crustacean.works/) | Unreal Engine 5, C++
 * Led a 6-person team developing a puzzle-based video game with a local studio.
 * Designed gameplay systems and puzzle mechanics in C++ using Unreal Engine.
 * Coordinated team milestones, code integration, and testing with an Agile approach.
@@ -39,8 +39,8 @@
 
 ### Bachelor of Science in Computer Science
 Purdue University Fort Wayne <br>
-May 2026 (expected) <br>
-GPA: 3.75 / 4.0 <br>
+May 2026 <br>
+GPA: 3.77 / 4.0 <br>
 Minors: Mathematics, History <br>
 University Honors Program (Multi-year research track) <br>
 Relevant Coursework: Algorithm Design, Software Engineering, Full-Stack Web Development, Database Systems <br>
@@ -64,7 +64,8 @@ My first exploration in programming was in middle school. Starting with block an
 
 
 ### Now
-I am currently an undergrad student at [Purdue University Fort Wayne](https://www.pfw.edu/). I will graduate in Spring of 2026 with a [bachelor's in Computer Science](https://www.pfw.edu/academics-research/majors-minors/computer-science-bs). In Fall of 2025, I also started earning a postgraduate degree through dual-enrollment. I hope to earn my master's degree in Computer Science in Spring of 2027. I am an honors student with a cumulative GPA of 3.75.
+In Spring of 2026, I earned my bachelor's degree in Computer Science at <a href="https://www.pfw.edu/">Purdue University Fort Wayne</a> with an honors certificate and a cumulative GPA of 3.77. I am currently a graduate student at PFW, and I will graduate in Spring of 2027 with a <a href="https://www.pfw.edu/academics-research/majors-minors/computer-science-ms"> master's in Computer Science</a>.
+
 
 <kbd><img src="https://stevenlagoy.github.io/assets/honors-DCFKRrPc.png" alt="Photo of Steven holding an honors recognition pin standing next to some balloons" width="200" height="200" title="Being recognized by PFW's Honors Program"></kbd>
 <kbd><img src="https://stevenlagoy.github.io/assets/bridge-D1fldxmm.png" alt="Photo of Steven wearing a Purdue University shirt standing in front of a bridge" width="200" height="200" title="The first day of the Fall 2025 semester"><kbd>
